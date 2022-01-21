@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [page.png](https://github.com/mays4/App-Matrial-UI/blob/master/docs/Screen%20Shot%202022-01-21%20at%202.14.54%20PM.png?raw=true).
+This project was bootstrapped with [page.png](https://github.com/mays4/App-Matrial-UI/blob/master/docs/page.png?raw=true).
 
 ## Available Scripts
 
